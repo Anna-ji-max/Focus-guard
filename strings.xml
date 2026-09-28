@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="svc_desc">Covers Instagram\'s Reels, Explore grid and Reels tab with a reminder screen. Reads only Instagram\'s screen layout, on your device.</string>
+</resources>
